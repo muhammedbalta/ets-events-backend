@@ -1,6 +1,9 @@
 ## ETS Events Backend
 
 ETS event backend uses strapi.
+localhost:1337
+Email:admin@etsevents.com
+Password:Admin_1234
 
 # 🚀 Getting started with Strapi
 
